@@ -1,3 +1,5 @@
+// 실행은 npm run deploy
+
 import{
   BrowserRouter as Router,
   Switch,
